@@ -205,4 +205,4 @@ This repository serves as the official landing page for Adobe InDesign CC. The s
 **Get the most recent version of Adobe InDesign CC today!**
 
 ---
-**Last updated:** 2026-11-12 18:45:32 UTC
+**Last updated:** 2026-11-13 00:00:04 UTC
